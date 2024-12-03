@@ -13,7 +13,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       Worker type breakdown, Job runs timeline.
 
 <p align="center">
-  <img width="800" height="400" src="Orchastration pipeline.png">
+  <img width="900" height="400" src="Orchastration pipeline.png">
 </p>
 
 #### Oracle to Redshift
