@@ -11,5 +11,5 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       Monitoring and maintenance were done daily with CloudWatch, resource usage, Job type breakdown, Worker type breakdown, Job runs timeline.
 
 <p align="center">
-  <img width="1000" height="500" src="https://github.com/jacquie0583/Power-BI-Bike-Dashboard/blob/main/Picture2.png">
+  <img width="1000" height="500" src="Orchastration pipeline.png">
 </p>
