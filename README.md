@@ -13,7 +13,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       Worker type breakdown, Job runs timeline.
 
 <p align="center">
-  <img width="800" height="400" src="Orchastration pipeline.png">
+  <img width="200" height="400" src="Orchastration pipeline.png">
 </p>
 
 #### Oracle to Redshift
@@ -37,7 +37,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       have access to varying databases.
 
       <p align="center">
-  <img width="400" height="300" src="Appflow.png">
+        <img width="400" height="300" src="Appflow.png">
 </p>
 
 #### Where did you find the solutions?  
@@ -57,6 +57,6 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       access to status of the tables. 
 
       <p align="center">
-  <img width="400" height="1000" src="Code.png">
+        <img width="400" height="1000" src="Access Logs Easily.png">
 </p>
 
