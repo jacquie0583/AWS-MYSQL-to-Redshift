@@ -25,3 +25,38 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 <p align="center">
   <img width="400" height="1000" src="Code.png">
 </p>
+
+#### Salesforce to Redshift
+      Salesforce migration was carried out through Appflow.  
+      Flow setup started with connecting to source, mapping source fields 
+      to destination then activating flows.  Other necessary tasks included:
+            setting up KMS key, Field mappings stored in S3 as parquet format, 
+            triggers set at on demand. Monitored through CloudWatch metrics.
+      
+      Setting up IAM roles and establishing policies allowed for different teams to 
+      have access to varying databases.
+
+      <p align="center">
+  <img width="400" height="300" src="Appflow.png">
+</p>
+
+#### Where did you find the solutions?  
+      Researching different architectural solutions for the various sources 
+      and the alterations in schema design to allow for acceptable conversions to Redshift.
+ 
+#### Why did the solution work?
+      Organization, collaboration with multiple teams, excellent research skills
+ 
+#### How were you sure the solution worked?
+      Data Validation records displayed results consistent with the original database.
+
+#### Cloud Watch Dispayed in Organized Fashion in IDE
+      In my role, I built a connection to the log files in serverless data integration service.
+      To achieve this, I accessed the log files, organized them by table(operation), 
+      built a pipeline to display the results on Redshift allowing for immediate 
+      access to status of the tables. 
+
+      <p align="center">
+  <img width="400" height="1000" src="Code.png">
+</p>
+
