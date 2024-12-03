@@ -1,10 +1,10 @@
 # AWS-Integration of multiple platforms(muliple databases)-to-Redshift 
 
 <p align="center">
-  <img width="900" height="400" src="Red.png">
+  <img width="300" height="200" src="Red.png">
 </p>
 <p align="right">
-  <img width="900" height="400" src="Glue.jpg">
+  <img width="300" height="200" src="Glue.jpg">
 </p>
 
 ## A project that I’ve worked on, independently, that I am very passionate about...
@@ -13,7 +13,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 ## Solution: Completed in multiple stages.  
 ### MYSQL-to-Redshift
 <p align="center">
-  <img width="900" height="400" src="mysql.png">
+  <img width="300" height="200" src="mysql.png">
 </p>
       First, MySQL workbench required JDBC and terraform connection.  
       Followed by a crawler who would gather the schema and transfer it to a data catalogue.  
@@ -29,7 +29,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 
 ### Oracle to Redshift
 <p align="center">
-  <img width="900" height="400" src="oracle.jpg">
+  <img width="300" height="200" src="oracle.jpg">
 </p>
       Oracle migration took a different means of transfer. 
       The tables first needed to be modified to MATERIALIZED VIEW format 
