@@ -23,5 +23,5 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       This was accomplished by exporting and then copying. Example of M.V.
 
 <p align="center">
-  <img width="800" height="900" src="Code.png">
+  <img width="400" height="1000" src="Code.png">
 </p>
