@@ -1,2 +1,3 @@
-# AWS-MYSQL-to-Redshift
-:  Constructing pipelines to migrate data from MySQL workbench-RDS, Toad and salesforce to a central location, Redshift.  Upon completion, allowing different teams to have access to varying databases
+# AWS-MYSQL-to-Redshift 
+## A project that I’ve worked on, independently, that I am very passionate about...
+Constructing pipelines to migrate data from MySQL workbench-RDS, Toad and salesforce to a central location, Redshift.  Upon completion, allowing different teams to have access to varying databases
