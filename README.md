@@ -37,7 +37,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       have access to varying databases.
 
 <p align="center">
-   <img width="100" height="100" src="Appflow.png">
+   <img width="200" height="200" src="Appflow.png">
 </p>
 
 #### Where did you find the solutions?  
@@ -57,6 +57,6 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       access to status of the tables. 
 
 <p align="center">
-   <img width="200" height="200" src="Access Logs Easily.png">
+   <img width="400" height="400" src="Access Logs Easily.png">
 </p>
 
