@@ -1,11 +1,10 @@
 # AWS-Integration of multiple platforms(muliple databases)-to-Redshift 
 
-<p align="center"> <img width="200" height="100" src="RDS.png"> <img width="200" height="100" src="Red.png">
+<p align="center"> <img width="100" height="100" src="RDS.png"> <img width="200" height="100" src="Red.png">
 </p>
 <p align="left">
   <img width="100" height="50" src="Crawler.png"> <img width="100" height="50" src="DC.png">
-</p>
-<p align="right">
+   align="right">
   <img width="200" height="100" src="Glue.jpg">
 </p>
 
