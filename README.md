@@ -1,10 +1,16 @@
 # AWS-Integration of multiple platforms(muliple databases)-to-Redshift 
 
 <p align="center">
-  <img width="300" height="200" src="Red.png">
+  <img width="200" height="100" src="Red.png">
 </p>
 <p align="right">
-  <img width="300" height="200" src="Glue.jpg">
+  <img width="200" height="100" src="Glue.jpg">
+</p>
+<p align="left">
+  <img width="100" height="50" src="Crawler.png">
+</p>
+<p align="left">
+  <img width="100" height="50" src="DC.png">
 </p>
 
 ## A project that I’ve worked on, independently, that I am very passionate about...
@@ -13,7 +19,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 ## Solution: Completed in multiple stages.  
 ### MYSQL-to-Redshift
 <p align="center">
-  <img width="300" height="200" src="mysql.png">
+  <img width="200" height="100" src="mysql.png">
 </p>
       First, MySQL workbench required JDBC and terraform connection.  
       Followed by a crawler who would gather the schema and transfer it to a data catalogue.  
@@ -29,7 +35,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 
 ### Oracle to Redshift
 <p align="center">
-  <img width="300" height="200" src="oracle.jpg">
+  <img width="200" height="100" src="oracle.jpg">
 </p>
       Oracle migration took a different means of transfer. 
       The tables first needed to be modified to MATERIALIZED VIEW format 
@@ -42,7 +48,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 
 ### Salesforce to Redshift
 <p align="center">
-  <img width="300" height="200" src="mysql.png">
+  <img width="200" height="100" src="sf.png">
 </p>
       Salesforce migration was carried out through Appflow.  
       Flow setup started with connecting to source, mapping source fields 
@@ -53,7 +59,10 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       Setting up IAM roles and establishing policies allowed for different teams to 
       have access to varying databases.
 
-<p align="center">
+<p align="left">
+   <img width="800" height="300" src="Appflow.png">
+</p>
+<p align="right">
    <img width="800" height="300" src="Appflow.png">
 </p>
 
@@ -69,7 +78,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 
 ### Cloud Watch Dispayed in Organized Fashion in IDE
 <p align="center">
-  <img width="900" height="400" src="Orchastration pipeline.png">
+  <img width="200" height="100" src="cloudwatch.png">
 </p>
       In my role, I built a connection to the log files in serverless data integration service.
       To achieve this, I accessed the log files, organized them by table(operation), 
