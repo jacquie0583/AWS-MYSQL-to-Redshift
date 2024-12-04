@@ -1,4 +1,4 @@
-# AWS-Integration of multiple platforms(muliple databases)-to-Redshift 
+# AWS-Integration of multiple platforms-to-Redshift 
 
 <p align="center"> <img width="100" height="100" src="RDS.png">       <img width="200" height="100" src="Red.png">
 </p>
