@@ -53,7 +53,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
       have access to varying databases.
 
 <p align="left">
-   <img width="100" height="200" src="Appflow2.png">
+   <img width="100" height="50" src="Appflow2.png">
 </p>
 <p align="right">
    <img width="800" height="300" src="Appflow.png">
