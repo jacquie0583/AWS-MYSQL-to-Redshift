@@ -41,6 +41,9 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 </p>
 
 ### Salesforce to Redshift
+<p align="center">
+  <img width="300" height="200" src="mysql.png">
+</p>
       Salesforce migration was carried out through Appflow.  
       Flow setup started with connecting to source, mapping source fields 
       to destination then activating flows.  Other necessary tasks included:
