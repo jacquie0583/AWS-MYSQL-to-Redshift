@@ -28,7 +28,7 @@ Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and sale
 
 ### Oracle to Redshift
 <p align="center">
-  <img width="200" height="100" src="oracle2.png">
+  <img width="200" height="50" src="oracle2.png">
 </p>
       Oracle migration took a different means of transfer. 
       The tables first needed to be modified to MATERIALIZED VIEW format 
