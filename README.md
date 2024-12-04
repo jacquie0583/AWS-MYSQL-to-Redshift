@@ -12,8 +12,7 @@
 Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and salesforce to a central location, Redshift.  Upon completion, allowing different teams to have access to varying databases
 
 ## Solution: Completed in multiple stages.  
-### MYSQL-to-Redshift
-<p align="center">
+### MYSQL-to-Redshift       <p align="center">
   <img width="200" height="100" src="mysql.png">
 </p>
       First, MySQL workbench required JDBC and terraform connection.  
