@@ -6,12 +6,14 @@
 <p align="left">
   <img width="100" height="50" src="Crawler.png">
 </p>
-<p align="right">
-  <img width="200" height="100" src="Glue.jpg">
-</p>
 <p align="left">
   <img width="100" height="50" src="DC.png">
 </p>
+<p align="right">
+  <img width="200" height="100" src="Glue.jpg">
+</p>
+<p align="center">
+  <img width="200" height="100" src="RDS.png">
 
 ## A project that I’ve worked on, independently, that I am very passionate about...
 Constructing pipelines to migrate data from MySQL workbench-RDS, Oracle and salesforce to a central location, Redshift.  Upon completion, allowing different teams to have access to varying databases
